@@ -2,7 +2,7 @@
 
 ***
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![Commodore-64-Computer-FL](https://github.com/SakurakoMitsui/classic-computer-stan/assets/112539110/3ed50f87-f830-4469-80c4-2355b060a1ef)
 
 ***
 
@@ -70,9 +70,9 @@ Let's now compare the Commodore 64 with a modern marvel like the [MacBook Air](h
 ### _`Experience the Future`_
 While we cherish the Commodore 64's legacy, the MacBook Air stands as a testament to the continuous evolution of computing technology. Embrace the future with the MacBook Air, appreciating how far we've come since the days of the Commodore 64. The journey from a 1 MHz processor to an octa-core powerhouse is a testament to the relentless pursuit of innovation in the world of computing.
 
-[![Youtube](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+[![Youtube](<img width="945" alt="youtubevideo" src="https://github.com/SakurakoMitsui/classic-computer-stan/assets/112539110/9c6c8487-668b-4c63-ad00-f5c7aaf61ea2">)]( https://youtu.be/UDumOYP0ZA0?feature=shared)
 
- https://youtu.be/UDumOYP0ZA0?feature=shared 
+
 
 
 
