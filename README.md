@@ -2,8 +2,12 @@
 
 ***
 
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
+***
+
 ### `Introduction`
-Welcome to the fan pafe dedicated to the legendary [Commodore 64](https://en.wikipedia.org/wiki/Commodore_64), a computer that predates my existence but continues to captivate enthusiasts with its groundbreaking technology. Let's delve into the exciting features that made the Commodore 64 a timeless classic.
+Welcome to the fan page dedicated to the legendary [Commodore 64](https://en.wikipedia.org/wiki/Commodore_64), a computer that predates my existence but continues to captivate enthusiasts with its groundbreaking technology. Let's delve into the exciting features that made the Commodore 64 a timeless classic.
 
 ***
 
