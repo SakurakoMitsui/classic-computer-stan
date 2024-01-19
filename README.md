@@ -40,8 +40,10 @@ Welcome to the fan pafe dedicated to the legendary [Commodore 64](https://en.wik
    - The Commodore 64 boasted a vast software library, ranging from classic games like "Boulder Dash" and "Maniac Mansion" to educational software and productivity tools.
    - The diverse range of applications contributed to the widespread adoption and popularity of the Commodore 64.
 7. __Enduring Legacy:__
-   - Even decades after its release, the Commodore 64 has a dedicated community of enthusiasts.
+   - Even decades after its release, the Commodore 64 has a dedicated community of enthusiasts[^1].
    - Emulators and modern peripherals keep the spirit of the Commodore 64 alive, allowing new generations to experience the magic of this legendary computer.
+   - Visit the Commodore Computer Club for an active community that celebrates the Commodore legacy[^2].
+   - Explore the Commodore 64 Wiki[^3] for in-depth information and resources.
 
 ***
 
@@ -67,3 +69,9 @@ While we cherish the Commodore 64's legacy, the MacBook Air stands as a testamen
 [![Youtube](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
 
  https://youtu.be/UDumOYP0ZA0?feature=shared 
+
+
+
+ [^1]:[Commodore Computer Club](https://www.commodore.ca/)
+ [^2]:Active Community
+ [^3]:[Commodore 63 Wiki](https://www.c64-wiki.com/)
