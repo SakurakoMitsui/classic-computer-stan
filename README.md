@@ -12,7 +12,7 @@ Welcome to the fan page dedicated to the legendary [Commodore 64](https://en.wik
 ***
 
 ### `Technical Specifications`
-| __Component__        | __Specification__      |
+| __Component__  | __Specification__  |
 | ------------- |-------------|
 | Processor     | MOS Technology 6510, MHz | 
 | Storage      | 5.25" Floppy Disk Drive (varied capacities)    |   
@@ -54,7 +54,7 @@ Welcome to the fan page dedicated to the legendary [Commodore 64](https://en.wik
 ## Comparison with MacBook Air
 Let's now compare the Commodore 64 with a modern marvel like the [MacBook Air](https://www.apple.com/jo/macbook-air/).
 
-| Feature | Commodore 64 | MacBook Air (2024) |
+| __Fearute__ | __Commodore 64__ | __MacBook Air (2024)__ |
 |-----------|---------------|------------------|
 | Processor | MOS Technology 6510, 1 MHz | Apple M2, Octa-core |
 | Storage | 5.25" Floppy Disk Drive | 512 GB SSD |
