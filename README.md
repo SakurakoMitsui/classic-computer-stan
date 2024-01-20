@@ -11,6 +11,7 @@ Welcome to the fan page dedicated to the legendary [Commodore 64](https://en.wik
 
 ***
 
+
 ### `Technical Specifications`
 | __Component__  | __Specification__  |
 | ------------- |-------------|
@@ -19,6 +20,7 @@ Welcome to the fan page dedicated to the legendary [Commodore 64](https://en.wik
 | Memory (RAM) | 64 KB      | 
 | Graphics Card (GPU) | VIC-II, 16 colors, 320x200 pixels |
 | Sound | SID 6581, 3 channels |
+
 
 ***
 
