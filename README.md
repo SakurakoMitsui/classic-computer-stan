@@ -14,11 +14,11 @@ Welcome to the fan page dedicated to the legendary [Commodore 64](https://en.wik
 
 ### `Technical Specifications`
 
-| __Component__  | __Specification__  |
-| ------------- |-------------|
-| Processor     | MOS Technology 6510, MHz | 
-| Storage      | 5.25" Floppy Disk Drive (varied capacities)    |   
-| Memory (RAM) | 64 KB      | 
+| __Component__ | __Specification__ |
+|---------------|-------------------|
+| Processor | Mos Technology 6510, MHz |
+| Storage   | 5.25" Floppy Disk Drive (varied capacities) |
+| memory (RAM) | 64KB |
 | Graphics Card (GPU) | VIC-II, 16 colors, 320x200 pixels |
 | Sound | SID 6581, 3 channels |
 
