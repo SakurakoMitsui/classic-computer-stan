@@ -13,6 +13,7 @@ Welcome to the fan page dedicated to the legendary [Commodore 64](https://en.wik
 
 
 ### `Technical Specifications`
+
 | __Component__  | __Specification__  |
 | ------------- |-------------|
 | Processor     | MOS Technology 6510, MHz | 
